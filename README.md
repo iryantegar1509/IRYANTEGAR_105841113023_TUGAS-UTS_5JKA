@@ -48,7 +48,7 @@ Tujuan utama proyek ini adalah mengumpulkan informasi target dan menganalisis po
 - 📁 [skenario](./skenario/)
 
 ## Link Video Dokumentasi (YouTube)
-https://youtu.be/LINK_VIDEO_KAMU
+https://youtu.be/mC7vVsCo6U8?feature=shared
 
 ## Catatan
 Semua pengujian aktif dilakukan pada lingkungan lab yang telah diizinkan.
